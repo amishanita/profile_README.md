@@ -1,243 +1,152 @@
-# タマン アミス Tamang Amish 👋
+# Tamang Amish（タマン アミス）
 
-**QAエンジニアを目指しています | Aspiring QA Engineer**
-ヘルプデスク／SEからQAへのキャリアチェンジ | Transitioning from Helpdesk/SE into QA Engineering
+横浜でITヘルプデスクとテクニカルサポートをしています。ネパール出身で、2018年から日本に住んでいます。
 
-📍 横浜, 日本 / Yokohama, Japan　|　🌐 [github.com/amishanita](https://github.com/amishanita)　|　💼 [LinkedIn](https://www.linkedin.com/in/tamang-amish-669289250/)　|　✉️ amishmoktan2019@gmail.com
-
----
-
-## 👔 採用担当者向けサマリー / Recruiter Summary
-
-ITヘルプデスク／テクニカルサポート経験を持つ、QAエンジニア志望者です。
-
-現在はITヘルプデスクとして問い合わせ対応、障害の一次対応、問題の切り分け・調査、技術文書作成を担当しています。
-
-QAへのキャリアチェンジに向けて、Python・Playwright・pytest・Postman・GitHub Actionsを使った実践的なQAポートフォリオを4件構築しています。手動テスト → UIテスト自動化 → APIテスト → CI/CDまで、テスト設計と品質検証の実践力を段階的に身につけています。
-
-日本国内でJunior QA Engineer / QA Engineerとして、ITサポートで培った問題解決力とQA・自動化スキルを活かしたいと考えています。
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
-## 自己紹介 / About Me
+## いまの仕事
 
-**日本語：**
-現在、株式会社アスパークにて社内システムのヘルプデスク業務を担当し、問い合わせ対応、障害の一次対応、手順書・障害報告書の作成を行っています。この「事象を正確に再現し、記録し、報告する」実務は、QAにおける不具合報告のプロセスと直結すると考え、QAエンジニアへのキャリア転換を進めています。
+社内から来る「アプリが開かない」「印刷できない」といった問い合わせに、最初に対応する役割です。
 
-業務外でPython、pytest、Playwrightを独学し、手動テスト設計からUI自動化、API自動化、CI/CD統合まで、4件のテストプロジェクトを自分の手で構築し、GitHub上で公開しています。
+申告を受けたら、まず自分の端末で同じことが起きるか試します。いつ、どの端末で、どの操作をしたときに起きるのか。そこまで絞ってから、再現手順と環境を書いて担当者に渡します。自分で直せるものは直し、直せないものは調べた内容をつけてエスカレーションします。
 
-**English:**
-I currently work as IT Helpdesk/SE at a Japanese company, handling system inquiries, first-line incident response, and documentation (procedure guides, incident reports). That process, reproducing an issue accurately, recording it, and reporting it clearly, is directly transferable to QA defect reporting, which is why I'm transitioning into QA Engineering.
+問い合わせ対応のほかに、PC・タブレット・スマートフォンのキッティングと引き渡し前の動作確認、基幹システム（OBIC7）のデータ移行支援と出力帳票の確認、IT資産管理、購買事務を担当しています。
 
-Outside of work, I self-studied Python, pytest, and Playwright, and built four QA portfolio projects covering manual test design, UI automation, API automation, and CI/CD integration, all published on GitHub.
+その前は携帯ショップで端末の不具合対応を1年半やりました。お客様に専門用語を使わずに説明する仕事です。さらにその前は製造業で、出荷前検査と品質管理を2年9か月。15人のチームリーダーもしていました。
 
----
+業種はばらばらですが、やっていることは似ています。基準があって、それに合っているかを確認して、結果を記録して次の人に渡す。ずっとこれをやってきました。
 
-## 技術スタック / Tech Stack
+## 職歴
 
-**テスト自動化 / Test Automation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**CI/CD & バージョン管理 / CI/CD & Version Control**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-**データベース・プロジェクト管理 / Database & PM Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**開発補助AI / AI Dev Assist**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
----
-
-## スキルの積み上げ / Skill Progression
-
-```mermaid
-flowchart LR
-    A["01 手動QA\nManual QA"] --> B["02 UI自動化\nUI Automation"]
-    B --> C["03 API自動化\nAPI Automation"]
-    C --> D["04 CI/CD統合\nCI/CD Integration"]
-```
-
----
-
-## QAワークフロー全体像 / End-to-End QA Workflow
-
-```mermaid
-flowchart LR
-    A["要件定義\nRequirement"] --> B["テスト設計\nTest Design"]
-    B --> C["テスト実行\nExecution"]
-    C --> D["不具合報告\nDefect Reporting"]
-    D --> E["再テスト\nRetest"]
-    E --> F["回帰テスト\nRegression"]
-    F --> G["CI/CD自動化\nCI/CD Automation"]
-```
-
----
-
-## QAスキル一覧 / QA Skills at a Glance
-
-| カテゴリ Category | スキル Skills | 根拠 Evidence |
+| 期間 | 仕事 | 内容 |
 |---|---|---|
-| 手動テスト Manual QA | テストケース設計、要件トレーサビリティ、機能テスト / Test case design, requirements traceability, functional testing | Project 01 |
-| UI自動化 UI Automation | Python, Playwright, pytest, Page Object Model | Project 02 |
-| API自動化 API Testing | REST API, CRUD検証, アサーション, 不具合文書化 / CRUD coverage, assertions, defect docs | Project 03 |
-| CI/CD | GitHub Actions, スモーク／回帰テスト分離 / smoke-regression separation | Project 04 |
-| ツール Tools | Git, GitHub, Postman, SQL, Excel | 全プロジェクト共通 / all projects |
+| 2025年6月〜現在 | ITヘルプデスク・テクニカルサポート | 一次問い合わせ対応、不具合の再現と切り分け、インシデント報告、キッティング、OBIC7のデータ移行支援、IT資産管理、購買事務 |
+| 2023年12月〜2025年5月 | テクニカルサポート（auショップ） | 端末不具合の再現と切り分け、初期設定とデータ移行、手順書と研修資料の作成 |
+| 2021年4月〜2023年12月 | 品質管理・出荷前検査／チームリーダー | 検査基準に沿った確認と記録、不良の報告、15名の作業割り当てと新人教育、作業手順の統一 |
 
-**箇条書きスキル一覧 / Skill Bullets**
+## 業務外で作ったもの
 
-- ✅ テストケース設計・要件トレーサビリティ / Test case design, requirements traceability
-- ✅ 正常系・異常系テスト設計 / Positive & negative test design
-- ✅ 境界値分析・同値分割 / Boundary value analysis, equivalence partitioning
-- ✅ Python + Playwright + pytest によるUI自動化 / UI automation with Python, Playwright, pytest
-- ✅ Page Object Model設計 / Page Object Model architecture
-- ✅ REST API自動テスト（CRUD全体）/ REST API automation (full CRUD)
-- ✅ JSON Schemaによる契約検証 / JSON Schema contract validation
-- ✅ 認証・認可の境界値テスト / Auth boundary testing
-- ✅ 再現可能な不具合報告（手順・期待値・実際値）/ Reproducible defect reports
-- ✅ GitHub Actionsによるスモーク／回帰テスト自動化 / Smoke & regression automation via GitHub Actions
-- ✅ フィクスチャ設計・スコープ管理 / Fixture design & scoping
-- ✅ 実環境での不具合発見・修正経験 / Real defect diagnosis & fixes
-- ✅ Postmanによる手動・探索的テスト / Manual & exploratory testing with Postman
-- ✅ 日英バイリンガルQAドキュメント作成 / Bilingual QA documentation (EN/JA)
+ソフトウェアテストは仕事で扱う機会がありません。なので題材を自分で決めて、設計から実行まで一通り作りました。4つあります。
 
----
+| | リポジトリ | 内容 | 結果 |
+|---|---|---|---|
+| 01 | [01-eccube-manual-qa](https://github.com/amishanita/01-eccube-manual-qa) | EC-CUBE 4.2.3 の手動テスト設計と不具合報告 | 49機能を洗い出し、27要件に整理、テストケース40件 |
+| 02 | [02-saucedemo-playwright-python](https://github.com/amishanita/02-saucedemo-playwright-python) | Playwright と pytest によるUI自動テスト | 31実行、30成功・1スキップ・0失敗 |
+| 03 | [03-restful-booker-api-automation](https://github.com/amishanita/03-restful-booker-api-automation) | REST API の仕様と実挙動の突き合わせ | 25ケース、仕様と違う箇所を5件検出。curlで再現手順を記録 |
+| 04 | [04-saucedemo-ci-cd-qa](https://github.com/amishanita/04-saucedemo-ci-cd-qa) | GitHub Actions での自動実行 | 15ケース全成功。PR時・マージ時・夜間の3種類 |
 
-## QAポートフォリオ / QA Portfolio
+4つは別々の課題ではなく、順番につながっています。
 
-| # | プロジェクト Project | 内容 What it shows | 技術 Tech | リンク |
-|---|---|---|---|---|
-| 01 | EC-CUBE 手動QA | 要件27件・テストケース40件・要件トレーサビリティマトリクス・日英併記 / 27 requirements, 40 test cases, requirements traceability matrix, bilingual docs | Excel, Markdown | [Repo](https://github.com/amishanita/01-eccube-manual-qa) |
-| 02 | SauceDemo UI自動化 | Page Object Model、31件実行（Pass 30／Skip 1、理由明記）/ POM, 31 runs (30 pass, 1 skip, reason documented) | Python, Playwright, pytest | [Repo](https://github.com/amishanita/02-saucedemo-playwright-python) |
-| 03 | RESTful Booker API | pytest 25ケース、不具合5件（再現エビデンス付き）/ 25 pytest cases, 5 documented defects with reproduction evidence | Python, pytest, Postman | [Repo](https://github.com/amishanita/03-restful-booker-api-automation) |
-| 04 | SauceDemo CI/CD | 15件のテスト（スモーク3／回帰12）をCI/CD化、実行中に実バグ2件を発見・修正 / 15 tests (3 smoke, 12 regression) wired into CI/CD, 2 real defects found and fixed during setup | GitHub Actions, Playwright, pytest | [Repo](https://github.com/amishanita/04-saucedemo-ci-cd-qa) |
+01で、何を確認して何を確認しないかを決めました。全部の組み合わせは試せないので、落とした範囲とその理由も残しています。02では、そのうち毎回同じことを繰り返す部分を自動化しました。画面の定義とテストの手順を分けて、UIが変わったときに直す場所が1か所で済む形にしています。03では画面の裏側を見ました。APIのドキュメントに書いてある内容と、実際に返ってくるレスポンスを突き合わせています。04で、ここまでを人が実行しなくても回るようにしました。プルリクエストのときは短く、夜間は全部、という具合に実行範囲を変えています。
 
-### 01 — EC-CUBE Manual QA
+## 使っているもの
 
-**日本語：** EC-CUBE（ECサイト）を対象とした手動テスト設計。要件27件からテストケース40件・テストシナリオ20件を設計し、要件トレーサビリティマトリクスを完備。iPhone実機（Chrome）でユーザー導線を実際に操作し、実スクリーンショット4枚を取得。バグは0件でしたが、1件の「不具合に見えた事象」を別ブラウザで検証し、環境要因であることを確認・記録しています。**これはテスト設計・実行の一部を示すポートフォリオであり、大規模な実行キャンペーンではないと明記しています。**
+**テスト**
+Playwright / pytest / Postman / curl / requests / Selenium（学習中）
 
-**English:** Manual test design against EC-CUBE. 40 test cases and 20 scenarios designed from 27 requirements, with a full requirements traceability matrix. Tested on a real iPhone (Chrome), with 4 real screenshots captured across the user flow. Zero bugs found — the demo site held up — but one thing that looked like a defect was investigated across browsers and confirmed as an environment issue, not a real bug, and documented as such. **Explicitly disclosed as a test-design portfolio, not a large-scale execution campaign.**
+**言語**
+Python / SQL（PostgreSQL）/ JavaScript / HTML / CSS / Bash / YAML
 
-### 02 — SauceDemo UI Automation
+**バージョン管理・CI**
+Git / GitHub / GitHub Actions / Docker（基礎）
 
-**日本語：** SauceDemoを対象に、Python + Playwright + pytestでPage Object Modelを用いたUI自動化を構築。ログイン、カート、チェックアウトのフローを対象に31件実行し、Pass 30・Skip 1（理由を明記）。セレクタを1箇所に集約し、UI変更時の保守コストを最小化。
+**業務システム**
+OBIC7 / kintone / Kizuku / Spirit / Microsoft 365 / Box / DocuWorks / Jira / Excel（VLOOKUP、ピボットテーブル、VBA）
 
-**English:** UI automation against SauceDemo using Python, Playwright, and pytest with a Page Object Model. Covers login, cart, and checkout flows. 31 runs executed, 30 passed, 1 intentionally skipped with the reason documented. Selectors centralized in page objects to minimize maintenance cost when the UI changes.
+## 資格・語学
 
-### 03 — RESTful Booker API Automation
+- BJT ビジネス日本語能力テスト 420点
+- JPT（Japanese Proficiency Test）620点
+- 普通自動車第一種運転免許
+- JSTQB Foundation Level　2026年11月11日 受験予定
+- 日本語能力試験 N1　2026年12月6日 受験予定
 
-**日本語：** RESTful Booker APIに対し、Python + pytestで25件のテストケースを自動化（認証6件、予約作成/取得8件、更新7件、削除4件）。仕様上の期待値でアサートし、実際の挙動と乖離した箇所は`xfail`として5件の不具合票にまとめ、curlでの再現エビデンスを添付。GitHub Actionsでpush・PR・毎晩の定期実行に対応。制約事項（性能・セキュリティテストは対象外、単一環境のみ等）も正直に明記。
+日本語（ビジネスレベル）、英語（中級）、ネパール語（母語）、ヒンディー語（日常会話）
 
-**English:** 25 pytest cases against RESTful Booker's full CRUD lifecycle (6 auth, 8 booking, 7 update, 4 delete), asserting the specified behavior rather than whatever the API happens to do. 5 defects documented with curl reproduction evidence, marked `xfail` so a future fix turns the test green automatically. CI runs on push, PR, and nightly. Limitations (no performance/security testing, single environment) are disclosed directly in the repo rather than omitted.
+## 探している仕事
 
-### 04 — SauceDemo CI/CD
+QAエンジニア、テストエンジニア、ITヘルプデスク、テクニカルサポート、社内SE・情報システム、IT事務。
 
-**日本語：** プロジェクト02のUI自動化（Page Object Model）を土台に、15件のテスト（スモーク3・回帰12）をCI/CDパイプラインに統合。PRごとのスモークテスト、mainへのpush時の回帰テスト、毎晩の定期回帰の3つのGitHub Actionsワークフローを構築。**構築中に実際のバグを2件発見し、自分で修正**：①フィクスチャのスコープ不一致によるセットアップ失敗、②`pytest-playwright`の出力フォルダ初期化がHTMLレポートの出力先を巻き込んで消去してしまう設定ミス。実アプリに対しローカルで15件全て成功（12.79秒）したことを確認済み。
+自社の中で仕事が完結する会社を探しています。作って終わりではなく、運用まで見られる環境で長く働きたいと思っています。
 
-**English:** Extends Project 02's Page Object Model automation into a CI/CD pipeline: 15 tests (3 smoke, 12 regression) across 3 GitHub Actions workflows — smoke gate on every PR, regression on push to main, and a nightly regression run. **Found and fixed 2 real defects while building it**: a fixture scope mismatch that failed every test at setup, and a config collision where Playwright's output-clearing behavior was silently wiping the HTML report's output folder before it could be written. Verified 100% pass rate locally against the live app (`15 passed in 12.79s`).
+勤務地は神奈川県、東京都、千葉県、埼玉県。フルリモートも可能です。2026年12月から勤務できます。
+
+[LinkedIn](https://www.linkedin.com/in/tamang-amish-669289250)　|　amishmoktan2019@gmail.com
 
 ---
-
-## CI/CDパイプライン（Project 04）/ CI/CD Pipeline
-
-```mermaid
-flowchart TD
-    PR["Pull Request"] -->|"smoke marker"| A["pr-smoke.yml\n3 tests"]
-    Push["Push to main"] -->|"regression marker"| B["main-regression.yml\n12 tests"]
-    Night["Nightly schedule"] -->|"regression marker"| C["nightly-regression.yml\n12 tests"]
-    A --> E["Evidence\nHTML report + screenshots + traces"]
-    B --> E
-    C --> E
-```
-
-**実際に見つけて直したバグ2件 / 2 Real Bugs Found & Fixed:**
-1. **日本語：** フィクスチャのスコープ不一致（`base_url`がfunction scope、必要なのはsession scope）で全テストがセットアップ時に失敗 → `scope="session"`で解消
-   **English:** Fixture scope mismatch — `base_url` was function-scoped when session scope was required, failing every test at setup. Fixed by setting `scope="session"`.
-2. **日本語：** `pytest-playwright`の`--output`フォルダ初期化処理が、HTMLレポートの出力先フォルダを巻き込んで削除してしまう設定ミス → 出力先を分離して解消
-   **English:** `pytest-playwright`'s output-folder-clearing behavior was silently deleting the HTML report's output path before the report could be written. Fixed by separating the two output paths.
-
 ---
 
-## テストへの取り組み方 / How I Approach Testing
+# English
 
-- 要件ベースのテスト設計 / Requirement-based test design
-- 正常系・異常系の両方をカバー / Positive and negative test coverage
-- 再現可能な不具合報告（手順・期待結果・実際の結果を明記）/ Reproducible defect reporting
-- スモークテストと回帰テストの使い分け / Smoke vs. regression separation
-- スクリーンショット・レポート・トレースによる証跡ベースの実行 / Evidence-based execution
+# Tamang Amish
 
----
+I work as an IT helpdesk and technical support engineer in Yokohama, Japan. I'm from Nepal and have lived in Japan since 2018.
 
-## 職務経歴（要約）/ Professional Background
+## What I do now
 
-**日本語：** 現在、株式会社アスパークにてITヘルプデスク／SEとして勤務。以前は製造業で15名のチームリーダー、携帯電話販売店舗で接客・契約業務を経験。
+I'm the first person people reach when something at work stops working. "The app won't open." "I can't print."
 
-**English：** Currently IT Helpdesk/SE at a Japanese company. Prior experience: team leader for a 15-person team in manufacturing, and customer-facing sales/contracts at a mobile phone retailer.
+When a report comes in, I try to make it happen on my own machine first. When it started, which device, which action. Once I've narrowed it down, I write up the steps and the environment and hand it over. What I can fix, I fix. What I can't, I escalate with what I've already found.
 
-詳細な職務経歴は職務経歴書をご参照ください。 / Full work history available in resume (職務経歴書) on request.
+Alongside that I handle device setup for PCs, tablets and phones, including the checks before they go out. I support data migration for our ERP (OBIC7) and verify the documents it generates. I also manage IT assets and handle purchasing paperwork.
 
----
+Before this I spent a year and a half at a mobile phone shop, diagnosing handset problems and explaining them to customers without using technical words. Before that, two years and nine months in manufacturing, doing pre-shipment inspection and quality control. I led a team of 15 there.
 
-## 学習履歴（コース修了、資格ではありません）/ Learning History (Course Completions, Not Certifications)
+Different industries, similar work. There's a standard, you check whether the thing matches it, you write down what you found, and you pass it on. That's what I've been doing all along.
 
-- Quality Assurance Course（QA基礎・手動テスト・機能テスト・回帰テスト）
-- Master Software Testing + Jira + Agile on Live App
-- Python SDET-BackEnd / REST API Automation from Scratch
-- Playwright Python Automation Testing - From Zero to Expert
-- Learn SQL in Practical + Database Testing from Scratch
-- Learn GIT In Depth with BitBucket - Practical Work Flows
-- Agile Scrum Foundation
-- Agile Scrum Master
+## Experience
 
-**正式な資格 / Formal Qualification:** JPT（日本語能力試験）ビジネスレベル / JPT (Japanese Proficiency Test) — Business Level
+| Period | Role | Work |
+|---|---|---|
+| Jun 2025 – present | IT Helpdesk / Technical Support | First-line support, reproducing and isolating faults, incident reports, device kitting, ERP (OBIC7) data migration, IT asset management, purchasing admin |
+| Dec 2023 – May 2025 | Technical Support, au mobile store | Reproducing handset faults, device setup and data transfer, writing store procedures and training material |
+| Apr 2021 – Dec 2023 | QC & Pre-shipment Inspection / Team Leader | Inspection against written criteria, defect recording and reporting, led 15 people, standardised the inspection procedure |
 
-**受験予定 / Exam Scheduled:** ISTQB Foundation Level（CTFL）— 2026年11月11日 受験予定 / ISTQB CTFL exam scheduled for November 11, 2026 (in preparation, not yet certified)
+## Projects I built on my own time
 
----
+Software testing isn't part of my job, so I picked my own subjects and built four projects end to end.
 
-## 語学 / Languages
+| | Repository | What it is | Result |
+|---|---|---|---|
+| 01 | [01-eccube-manual-qa](https://github.com/amishanita/01-eccube-manual-qa) | Manual test design and defect reports for EC-CUBE 4.2.3 | 49 features inventoried, 27 requirements derived, 40 test cases |
+| 02 | [02-saucedemo-playwright-python](https://github.com/amishanita/02-saucedemo-playwright-python) | UI automation with Playwright and pytest | 31 runs, 30 passed, 1 intentional skip, 0 failed |
+| 03 | [03-restful-booker-api-automation](https://github.com/amishanita/03-restful-booker-api-automation) | REST API tested against its own documentation | 25 cases, 5 discrepancies found, each reproducible with curl |
+| 04 | [04-saucedemo-ci-cd-qa](https://github.com/amishanita/04-saucedemo-ci-cd-qa) | Running the suite on GitHub Actions | 15 cases passing, across PR, merge and nightly workflows |
 
-| 言語 Language | レベル Level |
-|---|---|
-| 日本語 Japanese | ビジネスレベル / Business Level (JPT) |
-| 英語 English | ビジネスレベル / Conversational-Business |
-| ネパール語 Nepali | ネイティブ / Native |
-| ヒンディー語 Hindi | 会話レベル / Conversational |
+They follow on from each other.
 
----
+In 01 I decided what to test and what to leave out. You can't try every combination, so I wrote down what I skipped and why. In 02 I automated the parts that get repeated every time, keeping the selectors in page classes so there's one place to fix when the UI moves. In 03 I went underneath the interface and compared what the API documentation promises with what the service actually returns. In 04 I made all of it run without anyone pressing a button, with a short run on pull requests and the full suite overnight.
 
-## 希望職種 / Career Focus
+## Tools
 
-日本国内での以下のポジションを希望しています / Seeking opportunities in Japan as:
-- QAエンジニア / QA Engineer
-- Junior QAエンジニア / Junior QA Engineer
-- ソフトウェアテスター / Software Tester
-- テストエンジニア / Test Engineer
-- QAアナリスト / QA Analyst
-- UATテスター / UAT Tester
-- 品質保証担当 / Quality Assurance
+**Testing** Playwright, pytest, Postman, curl, requests, Selenium (learning)
+**Languages** Python, SQL (PostgreSQL), JavaScript, HTML, CSS, Bash, YAML
+**Version control and CI** Git, GitHub, GitHub Actions, Docker (basic)
+**Business systems** OBIC7, kintone, Microsoft 365, Box, DocuWorks, Jira, Excel
 
----
+## Certifications and languages
 
-## 連絡先 / Contact
+- BJT Business Japanese Proficiency Test, 420
+- JPT, 620
+- Japanese driving licence
+- JSTQB Foundation Level, sitting 11 November 2026
+- JLPT N1, sitting 6 December 2026
 
-- GitHub: [github.com/amishanita](https://github.com/amishanita)
-- LinkedIn: [linkedin.com/in/tamang-amish](https://www.linkedin.com/in/tamang-amish-669289250/)
-- Email: amishmoktan2019@gmail.com
+Japanese (business level), English (intermediate), Nepali (native), Hindi (conversational)
 
-> 💬 すべてのプロジェクトは自分の手で構築・実行・文書化したものです。リンク先は実際のリポジトリです。
-> All projects above were built, run, and documented by hand — links go to the actual repositories.
+## What I'm looking for
+
+QA engineer, test engineer, IT helpdesk, technical support, internal IT, or IT administration.
+
+I'm looking for a company that keeps its work in house, where I can stay with something past the point where it ships and see how it holds up in use.
+
+Kanagawa, Tokyo, Chiba or Saitama. Fully remote also works. Available from December 2026.
+
+[LinkedIn](https://www.linkedin.com/in/tamang-amish-669289250)　|　amishmoktan2019@gmail.com
